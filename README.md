@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vincenzo Coppola. I'm a Computer Engineer and I'm currently enrolled in Master's degree program 👨🏻‍💻 💻
+- 👀 I've always been passionate about technology, intrigued by the future and innovation.
+- 📚 This github profile was created with the purpose of sharing the projects that I have made during my degree at the University Federico II of Naples. 
